@@ -14,14 +14,16 @@ body{
 }
 
 .main-wrapper .wrapper .left-col{
-    width: 50%;
-    max-width: 50%;
+    width: 40%;
+    max-width: 40%;
     padding: 50px;
+    text-align: center;
+    margin: auto 0;
 }
 
 .main-wrapper .wrapper .right-col{
-    width: 50%;
-    max-width: 50%;
+    width: 60%;
+    max-width: 60%;
     background: #ffffff;
     min-height: 100%;
     height: auto;

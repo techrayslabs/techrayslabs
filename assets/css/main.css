@@ -1,7 +1,7 @@
 body{
     font-weight: 400;
     font-family: 'Poppins', sans-serif;
-    background-color: #000049;
+    background-color: #001F37;
     color: #ffffff;
 }
 
@@ -34,7 +34,7 @@ body{
 }
 
 .sub-title{
-    background: linear-gradient(137deg, #00C1FF 28.73%, #4546F9 69.7%);
+    background: linear-gradient(137deg, #00C7FD 28.73%, #0068B5 69.7%);
     background-clip: text;
     -webkit-background-clip: text; /* For older versions of Safari/WebKit */
     color: transparent;
